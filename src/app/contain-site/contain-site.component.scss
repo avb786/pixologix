@@ -1,0 +1,65 @@
+.top-contain {
+    position: relative;
+    background-color: #F0F2F4;
+    bottom: 25px;
+}
+.main-content{
+    height: 640px;
+    background-color: #F0F2F4;
+    z-index: 999;
+}
+
+.beer-glass-bottle-div{
+    width: 398px;
+    overflow-x: hidden;
+    height: 600px;
+    overflow-y: hidden; 
+    position: relative;
+    bottom: 100px;
+    right: 25px;
+    border: 10px solid white;
+}
+
+
+.beer-glass-bottle-img{
+    width: 970px;
+    position: relative;
+    right: 251px;
+    height: 715px;
+}
+    .legend-kluiz {
+        color: #B09142;
+        height: 44px;
+        font-size: 40px;
+        margin-right: 300px;
+        margin-top: 140px;
+    }
+
+.legend-kluiz1 {
+    color: #B09142;
+    height: 44px;
+    font-size: 40px;
+    margin-right: 300px;
+    position: relative;
+    bottom: 15px;
+}
+
+.contain-line{
+    background-color: #000000;
+    width: 52px;
+    margin-right: 435px;
+    position: relative;
+    top: 60px;
+}
+.contain-line2{
+    background-color: #000000;
+    width: 52px;
+    margin-right: 530px;
+    position: relative;
+    top: 45px;
+}
+.legend-kluiz2{
+    width: 585px;
+    position: relative;
+    right: 70px;
+}

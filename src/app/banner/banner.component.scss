@@ -1,0 +1,71 @@
+
+.banner-bg {
+    background-color: #1B1A1F;
+   height: 955px;
+   margin-top: 5%;
+   background-image: url("../../assets/banner/kuliz-bg.png");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+}
+
+.full-banner {
+    overflow-y: hidden;
+    height: 765px;
+}
+.legend-kuliz {
+opacity:1;
+color:#B09142;
+font-family: MyriadPro-Regular;
+font-size:35px;
+text-align:left;
+}
+
+.khuliz-text {
+    margin-top: 200px;
+}
+
+.legend-kuliz1 {
+    width: 525px;
+    height: 105px;
+    color:#FFFFFF;
+    font-size:62px;
+}
+.legend-kuliz2 {
+opacity:0.7019607843137254;
+color:#FFFFFF;
+font-family:Poppins-Regular,AdobeInvisFont,MyriadPro-Regular;
+font-size:16px;
+text-align:left;
+width: 685px;
+height: 98px;
+position: relative;
+top: 65px;
+}
+
+.glass-bottle-img{
+    width: 500px;
+    height: 550px;
+    position: relative;
+    top: 130px;
+    left: 144px;
+}
+.pre-next-btn{
+    width: 60px;
+    height: 60px;
+    margin-top: 380px;
+    color: #FFFFFF;
+    font-size: 17px;
+    border: dotted;
+    cursor: pointer;
+}
+.next-pre-btn {
+    width: 60px;
+    height: 60px;
+    margin-top: 380px;
+    color: #B09142;
+    font-size: 17px;
+    border: dotted;  
+    cursor: pointer;
+}

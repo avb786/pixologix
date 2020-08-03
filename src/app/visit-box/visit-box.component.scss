@@ -1,0 +1,60 @@
+.target-bg-img>img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 817px;
+    opacity: 0.3;
+}
+.target-bg-img {
+    position: relative;
+    overflow: hidden;
+    height: 496px;
+    width: 100%;
+}
+.target-bg-img span {
+    position: relative;
+    z-index: 2;
+    color:#B09142;
+    font-size:60px;
+}
+.target-bg-img p {
+    position: relative;
+    z-index: 2;
+    color:#B09142;
+    font-size:60px;
+}
+.visit-main{
+    height: 496px;
+    background-color: #000000;
+}
+.our-target {
+    top: 100px;
+}
+.contain-line {
+    background-color: #ffffff;
+    width: 52px;
+    z-index: 1;
+    position: relative;
+    top: 145px;
+    right: 45px;
+  }
+  
+  .contain-line2 {
+    background-color: #ffffff;
+    width: 52px;
+    position: relative;
+    top: 128px;
+    left: 65px;
+    z-index: 1;
+  }
+  .legend-kluiz1 {
+    color: #B09142;
+    height: 20px !important;
+    font-size: 40px !important; 
+    margin-left: 747px !important;
+    position: relative !important;
+    width: 23px !important;
+    /* bottom: 15px; */
+    top: 72px;
+  }

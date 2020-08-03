@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pixlogix"
+    }
+  },
+  "defaultProject": "pixlogix",
+  "cli": {
+    "analytics": false
+  }
 }

@@ -1,0 +1,99 @@
+.bg-picture{
+    width: 1920px;
+}
+.body-visit {
+    width: 1920px;
+}
+.img-bg{
+    width: 98.5%;
+    position: absolute;
+    opacity: 0.2;
+    height: 900px;
+}
+.main-content {
+    height: 900px;
+    background-color: black;
+   
+}
+.our-products{
+    font-size: 60px;
+    color: #B09142;
+    position: relative;
+    top: 100px;
+    z-index:1 ;
+}
+.contain-line {
+    background-color: #ffffff;
+    width: 52px;
+    position: relative;
+    top: 370px;
+    right: 55px;
+  }
+  
+  .contain-line2 {
+    background-color: #ffffff;
+    width: 52px;
+    position: relative;
+    top: 353px;
+    left: 57px;
+
+  }
+  .bottle-pro {
+    position: relative;
+    bottom: 320px;
+    height: 110px;
+    right: 15px;
+  }
+  .location-div {
+    position: absolute;
+    width: 526px;
+    height: 397px;
+    left: 220px;
+    background-color: #ffffff;
+    z-index: 1;
+  }
+  .details {
+    width: 526px;
+    height: 397px;
+    background-color: #ffffff;
+  }
+  .belqiue{
+    color:#231F20;
+    font-size: 30px;
+    position: relative;
+    left: 65px;
+    top: 100px;
+  }
+  .location-address {
+    color:#231F20;
+    font-size: 15px;
+    position: relative;
+    left: 51px;
+    top: 100px;
+  }
+  .fa-siz {
+      font-size: 18px;
+  }
+  td{
+      border: none;
+  }
+  .location-map-div {
+       /* position: absolute; */
+    /* top: 1111px; */
+    width: 1499px;
+    /* bottom: -28px; */
+    height: 530px;
+    bottom: 43px;
+    left: 716px;
+    bottom: 61px;
+    background-color: #ffffff;
+    background-image: url('../../assets/visit-us-now/https___snazzymaps.com_style_15_subtle-grayscale@1X.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo {
+    left: 308px;
+    top: 145px;
+    position: relative;
+}

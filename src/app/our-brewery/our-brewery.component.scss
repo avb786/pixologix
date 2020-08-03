@@ -1,0 +1,137 @@
+.our-brewery {
+  position: relative;
+  top: 103px;
+  color: #B09142;
+  font-size: 60px;
+}
+
+.contain-line {
+  background-color: #000000;
+  width: 52px;
+  /* margin-right: 621px; */
+  position: relative;
+  top: 16px;
+  right: 45px;
+}
+
+.contain-line2 {
+  background-color: #000000;
+  width: 52px;
+  position: relative;
+  bottom: 2px;
+  left: 67px;
+}
+
+.legend-kluiz1 {
+  color: #B09142;
+  height: 44px;
+  font-size: 40px;
+  /* margin-right: 300px; */
+  margin-left: 25px;
+  position: relative;
+  /* bottom: 15px; */
+  bottom: 60px;
+}
+
+.back-slider {
+  width: 600px;
+  height: 600px;
+  position: relative;
+  /* margin-right: 36px; */
+  right: 100px;
+  background-color: #000000;
+  z-index: -1;
+}
+
+.back-slider-img {
+  background-image: url("../../assets/our-brewery/Layer\ 25@1X.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  top: 245px;
+  width: 600px;
+  height: 355px;
+  opacity: 0.25098039215686274;
+}
+
+.back-01 {
+  color: #FFFFFF;
+  position: relative;
+  bottom: 100px;
+  left: 80px;
+  font-size: 80px;
+}
+
+.liederiq {
+  font-size: 60px;
+  height: 52px;
+  color: #FFFFFF;
+  left: 100px;
+  bottom: 150px;
+  position: relative;
+}
+
+.liederiq-text {
+  color: #FFFFFF;
+  width: 429px;
+  height: 111px;
+  position: relative;
+  bottom: 150px;
+  left: 104px;
+}
+
+.back-slider1 {
+  width: 600px;
+  height: 600px;
+  position: relative;
+  /* margin-right: 36px; */
+  right: 10px;
+  background-color: #B09142;
+}
+
+.bottle-img {
+  position: relative;
+  left: 200px;
+  top: 47px;
+}
+
+#diamond {
+    cursor: pointer;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-bottom-color: white;
+  position: relative;
+  top: -50px;
+}
+
+#diamond:after {
+  content: '';
+  position: absolute;
+  left: -50px;
+  top: 50px;
+  width: 0;
+  height: 0;
+  border: 50px solid transparent;
+  border-top-color: white;
+}
+
+.arrow-left {
+  z-index: 1;
+  position: relative;
+  top: 36px;
+  font-size: 25px;
+}
+
+.diamond-pos {
+  position: relative;
+  top: 470px;
+  left: 105px;
+}
+
+.diamond-pos1 {
+  position: relative;
+  top: 280px;
+  left: 33px;
+}
